@@ -21,15 +21,4 @@ Completed: Partially contributed to all above.
 ## URL of deployed application
 https://group20-web-apps-ec19537.apps.d.comp-teach.qmul.ac.uk
 
-## Admin page credentials
-Username: admin
-Password: admin
-
-## Test users credentials
-- username: password:
-- user1: user1:
-- user2: user2:
-- user3: user3:
-- user4: user4:
-- user5: user5:
 
